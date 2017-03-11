@@ -21,8 +21,8 @@ export const PROBLEMS: Problem[] = [
   },
   {
     id: 4,
-    name: "Five Sum",
-    description: "sum up 5 number",
+    name: "Sliding Maximum Window",
+    description: "Find the maximum within the sliding window",
     difficulty: "super"
   }
 ];
